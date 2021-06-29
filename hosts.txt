@@ -1,0 +1,9 @@
+host1:
+    ip_address: 192.168.1.168
+    user_name: test
+    password: test@123
+host2:
+    ip_address: 192.168.1.216
+    user_name: admin
+    password: pass123
+
